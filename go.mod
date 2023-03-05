@@ -1,4 +1,4 @@
-module github.com/fatedier/frp
+module github.com/wwppccdd/upda
 
 go 1.20
 
